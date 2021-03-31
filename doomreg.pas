@@ -45,7 +45,7 @@ begin
 	gotoxy(8,2);
 	write(' ');
 	for i:=1 to 64 do
-		write('Ä');
+		write('Ð”');
 	write(' ');
 	gotoxy(8,3);
 	for i:=1 to 10 do

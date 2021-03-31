@@ -120,7 +120,7 @@ start:
 	fill 0x20, 13
 	gotoxy 8, 2
 	cout 0x20
-	fill 'Ä', 66
+	fill 'â”€', 66
 	cout 0x20
 	gotoxy 8, 3
 	fill 0x20, 10
